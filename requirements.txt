@@ -1,0 +1,6 @@
+# 安定運用向け（MoviePy 1.x + Pillow < 10）
+moviepy==1.0.3
+Pillow<10
+requests>=2.32.0
+imageio>=2.31
+imageio-ffmpeg>=0.4.9

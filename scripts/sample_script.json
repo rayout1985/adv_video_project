@@ -1,0 +1,60 @@
+[
+  {
+    "bg": "assets/bg/bg.png",
+    "lines": [
+      {
+        "character": "assets/chars/char_left.png",
+        "position": "left",
+        "voice": 3,
+        "text": "こんにちは、今日は良い天気ですね。",
+        "action": [
+          {
+            "type": "fadein",
+            "start": 0.0,
+            "duration": 0.6,
+            "easing": "ease_in_out"
+          },
+          {
+            "type": "zoomin",
+            "start": 0.0,
+            "duration": 0.0,
+            "strength": 0.3
+          }
+        ]
+      },
+      {
+        "character": "assets/chars/char_right.png",
+        "position": "right",
+        "voice": 8,
+        "text": "うん、散歩に行きたくなってきた！",
+        "action": [
+          {
+            "type": "jump",
+            "start": 0.2,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "fadein",
+            "start": 0.0,
+            "duration": 0.4
+          }
+        ]
+      },
+      {
+        "character": "assets/chars/char_left.png",
+        "position": "left",
+        "voice": 3,
+        "text": "その前にコーヒーはどう？",
+        "action": {
+          "type": "move",
+          "start": 0.0,
+          "duration": 0.6,
+          "x": -40,
+          "y": 0,
+          "mode": "relative"
+        }
+      }
+    ]
+  }
+]

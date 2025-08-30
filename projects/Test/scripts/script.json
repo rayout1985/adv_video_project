@@ -1,0 +1,637 @@
+[
+  {
+    "bg": "assets/bg/bg.png",
+    "lines": [
+      {
+        "character": "assets/chars/char_zundamon.png",
+        "position": "left",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomin",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "やあ、ずんだもんだよ。準備はいい？"
+      },
+      {
+        "character": "assets/chars/char_metan.png",
+        "position": "right",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomin",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "もちろん！今日も張り切っていこう。"
+      },
+      {
+        "character": "assets/chars/char_tsumugi.png",
+        "position": "left",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomout",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "つむぎです。まずは自己紹介から始めましょう。"
+      },
+      {
+        "character": "assets/chars/char_zundamon.png",
+        "position": "right",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "jump",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "ずんだもちパワー、チャージ完了！"
+      },
+      {
+        "character": "assets/chars/char_metan.png",
+        "position": "left",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomin",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "BGMもしっかり聞こえるね。映像もバッチリ。"
+      },
+      {
+        "character": "assets/chars/char_tsumugi.png",
+        "position": "right",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomout",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "fadeout",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "視聴者のみなさん、次の話題へ行きますよ。"
+      },
+      {
+        "character": "assets/chars/char_zundamon.png",
+        "position": "left",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomin",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "ここでちょっと寄ってみるよ。"
+      },
+      {
+        "character": "assets/chars/char_metan.png",
+        "position": "right",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomout",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "私は少し引いて全体を見せます。"
+      },
+      {
+        "character": "assets/chars/char_tsumugi.png",
+        "position": "left",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "jump",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "効果のテストも順調みたい。"
+      },
+      {
+        "character": "assets/chars/char_zundamon.png",
+        "position": "right",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomout",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "次のシーン転換もスムーズに。"
+      },
+      {
+        "character": "assets/chars/char_metan.png",
+        "position": "left",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomin",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "字幕プレートも自動で敷かれています。"
+      },
+      {
+        "character": "assets/chars/char_tsumugi.png",
+        "position": "right",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomin",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "fadeout",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "文字だけPNGが最前面に乗る仕様ですね。"
+      },
+      {
+        "character": "assets/chars/char_zundamon.png",
+        "position": "left",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomin",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "配置は二人だと左右寄せ。"
+      },
+      {
+        "character": "assets/chars/char_metan.png",
+        "position": "right",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomin",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "一人だと中央寄せ、ちょっと大きめ。"
+      },
+      {
+        "character": "assets/chars/char_tsumugi.png",
+        "position": "left",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomout",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "ADVっぽい見た目に近づいてきました。"
+      },
+      {
+        "character": "assets/chars/char_zundamon.png",
+        "position": "right",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "jump",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "ジャンプ演出、控えめに入れてみたよ。"
+      },
+      {
+        "character": "assets/chars/char_metan.png",
+        "position": "left",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomout",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "ズームアウトで奥行きを作ります。"
+      },
+      {
+        "character": "assets/chars/char_tsumugi.png",
+        "position": "right",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomin",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "fadeout",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "フェードアウトで退場、自然ですね。"
+      },
+      {
+        "character": "assets/chars/char_zundamon.png",
+        "position": "left",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomin",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "音声はVOICEVOXで合成されます。"
+      },
+      {
+        "character": "assets/chars/char_metan.png",
+        "position": "right",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomin",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "ずんだもん、めたん、つむぎの順で回しています。"
+      },
+      {
+        "character": "assets/chars/char_tsumugi.png",
+        "position": "left",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomout",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "テキストはSRTにも書き出し済み。"
+      },
+      {
+        "character": "assets/chars/char_zundamon.png",
+        "position": "right",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomout",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "ここから中盤のまとめに入ります。"
+      },
+      {
+        "character": "assets/chars/char_metan.png",
+        "position": "left",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomin",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "OpenShotのプロジェクトも自動生成。"
+      },
+      {
+        "character": "assets/chars/char_tsumugi.png",
+        "position": "right",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "jump",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "プレート画像は幅最大で下部に配置されます。"
+      },
+      {
+        "character": "assets/chars/char_zundamon.png",
+        "position": "left",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomin",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "二人の時は重なり時間で自動判定。"
+      },
+      {
+        "character": "assets/chars/char_metan.png",
+        "position": "right",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomout",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "ソロとデュオの切替が要らないのが楽。"
+      },
+      {
+        "character": "assets/chars/char_tsumugi.png",
+        "position": "left",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomin",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "fadeout",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "細かい位置は定数でチューニングできます。"
+      },
+      {
+        "character": "assets/chars/char_zundamon.png",
+        "position": "right",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomin",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "そろそろエンディングだね。"
+      },
+      {
+        "character": "assets/chars/char_metan.png",
+        "position": "left",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomin",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "最後は軽くズームで見せ場を。"
+      },
+      {
+        "character": "assets/chars/char_tsumugi.png",
+        "position": "right",
+        "voice": 3,
+        "action": [
+          {
+            "type": "slidein",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "zoomout",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          },
+          {
+            "type": "fadeout",
+            "start": 0.0,
+            "duration": 0.6,
+            "strength": 1.0
+          }
+        ],
+        "text": "ご視聴ありがとうございました！"
+      }
+    ]
+  }
+]

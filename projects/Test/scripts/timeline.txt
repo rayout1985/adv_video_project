@@ -1,0 +1,52 @@
+# 背景（5分通し）
+00:00 - 05:00 bg.png fadein fadeout
+
+# ==== Cycle 1 (00:03〜) ====
+00:03 - 00:13 char_zundamon.png left-in zoomin talk "やあ、ずんだもんだよ。準備はいい？"
+00:11 - 00:21 char_metan.png    right-in zoomin talk "もちろん！今日も張り切っていこう。"
+00:19 - 00:29 char_tsumugi.png   left-in  zoomout talk "つむぎです。まずは自己紹介から始めましょう。"
+
+# ==== Cycle 2 (00:30〜) ====
+00:30 - 00:40 char_zundamon.png right-in jump talk "ずんだもちパワー、チャージ完了！"
+00:38 - 00:48 char_metan.png    left-in  zoomin talk "BGMもしっかり聞こえるね。映像もバッチリ。"
+00:46 - 00:56 char_tsumugi.png  right-in zoomout fadeout talk "視聴者のみなさん、次の話題へ行きますよ。"
+
+# ==== Cycle 3 (01:00〜) ====
+01:00 - 01:10 char_zundamon.png left-in  zoomin talk "ここでちょっと寄ってみるよ。"
+01:08 - 01:18 char_metan.png    right-in zoomout talk "私は少し引いて全体を見せます。"
+01:16 - 01:26 char_tsumugi.png  left-in  jump talk "効果のテストも順調みたい。"
+
+# ==== Cycle 4 (01:30〜) ====
+01:30 - 01:40 char_zundamon.png right-in zoomout talk "次のシーン転換もスムーズに。"
+01:38 - 01:48 char_metan.png    left-in  zoomin talk "字幕プレートも自動で敷かれています。"
+01:46 - 01:56 char_tsumugi.png  right-in zoomin fadeout talk "文字だけPNGが最前面に乗る仕様ですね。"
+
+# ==== Cycle 5 (02:00〜) ====
+02:00 - 02:10 char_zundamon.png left-in  zoomin talk "配置は二人だと左右寄せ。"
+02:08 - 02:18 char_metan.png    right-in zoomin talk "一人だと中央寄せ、ちょっと大きめ。"
+02:16 - 02:26 char_tsumugi.png  left-in  zoomout talk "ADVっぽい見た目に近づいてきました。"
+
+# ==== Cycle 6 (02:30〜) ====
+02:30 - 02:40 char_zundamon.png right-in jump talk "ジャンプ演出、控えめに入れてみたよ。"
+02:38 - 02:48 char_metan.png    left-in  zoomout talk "ズームアウトで奥行きを作ります。"
+02:46 - 02:56 char_tsumugi.png  right-in zoomin fadeout talk "フェードアウトで退場、自然ですね。"
+
+# ==== Cycle 7 (03:00〜) ====
+03:00 - 03:10 char_zundamon.png left-in  zoomin talk "音声はVOICEVOXで合成されます。"
+03:08 - 03:18 char_metan.png    right-in zoomin talk "ずんだもん、めたん、つむぎの順で回しています。"
+03:16 - 03:26 char_tsumugi.png  left-in  zoomout talk "テキストはSRTにも書き出し済み。"
+
+# ==== Cycle 8 (03:30〜) ====
+03:30 - 03:40 char_zundamon.png right-in zoomout talk "ここから中盤のまとめに入ります。"
+03:38 - 03:48 char_metan.png    left-in  zoomin talk "OpenShotのプロジェクトも自動生成。"
+03:46 - 03:56 char_tsumugi.png  right-in jump talk "プレート画像は幅最大で下部に配置されます。"
+
+# ==== Cycle 9 (04:00〜) ====
+04:00 - 04:10 char_zundamon.png left-in  zoomin talk "二人の時は重なり時間で自動判定。"
+04:08 - 04:18 char_metan.png    right-in zoomout talk "ソロとデュオの切替が要らないのが楽。"
+04:16 - 04:26 char_tsumugi.png  left-in  zoomin fadeout talk "細かい位置は定数でチューニングできます。"
+
+# ==== Cycle 10 (04:30〜) ====
+04:30 - 04:40 char_zundamon.png right-in zoomin talk "そろそろエンディングだね。"
+04:38 - 04:48 char_metan.png    left-in  zoomin talk "最後は軽くズームで見せ場を。"
+04:46 - 04:56 char_tsumugi.png  right-in zoomout fadeout talk "ご視聴ありがとうございました！"

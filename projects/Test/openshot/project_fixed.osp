@@ -1,0 +1,287 @@
+{
+ "openshot": "OpenShot Video Editor",
+ "version": {
+  "openshot-qt": "3.3.0",
+  "libopenshot": "0.4.0"
+ },
+ "title": "scripts",
+ "profile": "HD 720p 30 fps",
+ "files": [
+  {
+   "id": "../assets/bg/bg.png",
+   "type": "ImageReader",
+   "path": "../assets/bg/bg.png",
+   "image": "@assets/assets/bg/bg.png.png"
+  },
+  {
+   "id": "../assets/chars/char_left.png",
+   "type": "ImageReader",
+   "path": "../assets/chars/char_left.png",
+   "image": "@assets/assets/chars/char_left.png.png"
+  },
+  {
+   "id": "../assets/chars/char_right.png",
+   "type": "ImageReader",
+   "path": "../assets/chars/char_right.png",
+   "image": "@assets/assets/chars/char_right.png.png"
+  },
+  {
+   "acodec": "",
+   "audio_bit_rate": 0,
+   "audio_stream_index": -1,
+   "audio_timebase": {
+    "den": 1,
+    "num": 1
+   },
+   "channel_layout": 4,
+   "channels": 0,
+   "display_ratio": {
+    "den": 5,
+    "num": 4
+   },
+   "duration": 3600.0,
+   "file_size": "3200000",
+   "fps": {
+    "den": 1,
+    "num": 30
+   },
+   "has_audio": false,
+   "has_single_image": true,
+   "has_video": true,
+   "height": 1000,
+   "interlaced_frame": false,
+   "metadata": {},
+   "path": "../assets/chars/char_left.png",
+   "pixel_format": -1,
+   "pixel_ratio": {
+    "den": 1,
+    "num": 1
+   },
+   "sample_rate": 0,
+   "top_field_first": true,
+   "type": "QtImageReader",
+   "vcodec": "",
+   "video_bit_rate": 0,
+   "video_length": "108000",
+   "video_stream_index": -1,
+   "video_timebase": {
+    "den": 30,
+    "num": 1
+   },
+   "width": 800,
+   "media_type": "image",
+   "id": "A4XJD658O3",
+   "image": "thumbnail/A4XJD658O3.png"
+  }
+ ],
+ "clips": [
+  {
+   "id": "bg_1",
+   "file": {
+    "id": "../assets/bg/bg.png",
+    "path": "../assets/bg/bg.png",
+    "reader": "ImageReader"
+   },
+   "position": 0.0,
+   "start": 0.0,
+   "end": 5.0,
+   "layer": 1,
+   "location_x": 960.0,
+   "location_y": 540.0,
+   "scale_x": 1.0,
+   "scale_y": 1.0,
+   "alpha": 1.0
+  },
+  {
+   "id": "ch_2",
+   "file": {
+    "id": "../assets/chars/char_left.png",
+    "path": "../assets/chars/char_left.png",
+    "reader": "ImageReader"
+   },
+   "position": 5.0,
+   "start": 0.0,
+   "end": 5.0,
+   "layer": 3,
+   "location_x": 480.0,
+   "location_y": 540.0,
+   "scale_x": 1.0,
+   "scale_y": 1.0,
+   "alpha": 1.0
+  },
+  {
+   "id": "bg_3",
+   "file": {
+    "id": "../assets/bg/bg.png",
+    "path": "../assets/bg/bg.png",
+    "reader": "ImageReader"
+   },
+   "position": 10.0,
+   "start": 0.0,
+   "end": 5.0,
+   "layer": 1,
+   "location_x": 960.0,
+   "location_y": 540.0,
+   "scale_x": 1.0,
+   "scale_y": 1.0,
+   "alpha": 1.0
+  },
+  {
+   "id": "ch_4",
+   "file": {
+    "id": "../assets/chars/char_right.png",
+    "path": "../assets/chars/char_right.png",
+    "reader": "ImageReader"
+   },
+   "position": 15.0,
+   "start": 0.0,
+   "end": 5.0,
+   "layer": 2,
+   "location_x": 1440.0,
+   "location_y": 540.0,
+   "scale_x": 1.0,
+   "scale_y": 1.0,
+   "alpha": 1.0
+  }
+ ],
+ "id": "GEN",
+ "layers": [
+  {
+   "id": "L1",
+   "label": "",
+   "lock": false,
+   "number": 1000000,
+   "y": 0
+  },
+  {
+   "id": "L2",
+   "label": "",
+   "lock": false,
+   "number": 2000000,
+   "y": 0
+  },
+  {
+   "id": "L3",
+   "label": "",
+   "lock": false,
+   "number": 3000000,
+   "y": 0
+  },
+  {
+   "id": "L4",
+   "label": "",
+   "lock": false,
+   "number": 4000000,
+   "y": 0
+  },
+  {
+   "id": "L5",
+   "label": "",
+   "lock": false,
+   "number": 5000000,
+   "y": 0
+  }
+ ],
+ "settings": {},
+ "history": {
+  "undo": [
+   {
+    "type": "insert",
+    "key": [
+     "files"
+    ],
+    "value": {
+     "acodec": "",
+     "audio_bit_rate": 0,
+     "audio_stream_index": -1,
+     "audio_timebase": {
+      "den": 1,
+      "num": 1
+     },
+     "channel_layout": 4,
+     "channels": 0,
+     "display_ratio": {
+      "den": 5,
+      "num": 4
+     },
+     "duration": 3600.0,
+     "file_size": "3200000",
+     "fps": {
+      "den": 1,
+      "num": 30
+     },
+     "has_audio": false,
+     "has_single_image": true,
+     "has_video": true,
+     "height": 1000,
+     "interlaced_frame": false,
+     "metadata": {},
+     "path": "../assets/chars/char_left.png",
+     "pixel_format": -1,
+     "pixel_ratio": {
+      "den": 1,
+      "num": 1
+     },
+     "sample_rate": 0,
+     "top_field_first": true,
+     "type": "QtImageReader",
+     "vcodec": "",
+     "video_bit_rate": 0,
+     "video_length": "108000",
+     "video_stream_index": -1,
+     "video_timebase": {
+      "den": 30,
+      "num": 1
+     },
+     "width": 800,
+     "media_type": "image",
+     "id": "A4XJD658O3"
+    },
+    "old_values": [
+     {
+      "id": "../assets/bg/bg.png",
+      "type": "ImageReader",
+      "path": "../assets/bg/bg.png"
+     },
+     {
+      "id": "../assets/chars/char_left.png",
+      "type": "ImageReader",
+      "path": "../assets/chars/char_left.png"
+     },
+     {
+      "id": "../assets/chars/char_right.png",
+      "type": "ImageReader",
+      "path": "../assets/chars/char_right.png"
+     }
+    ],
+    "transaction": "49b221bf-c47f-4266-97a5-b7d6cd362804"
+   }
+  ],
+  "redo": []
+ },
+ "progress": [],
+ "markers": [],
+ "fps": {
+  "num": 30,
+  "den": 1
+ },
+ "display_ratio": {
+  "num": 16,
+  "den": 9
+ },
+ "pixel_ratio": {
+  "num": 1,
+  "den": 1
+ },
+ "width": 1280,
+ "height": 720,
+ "channels": 2,
+ "channel_layout": 3,
+ "sample_rate": 48000,
+ "duration": 20.0,
+ "scale": 15.0,
+ "effects": [],
+ "tick_pixels": 100,
+ "playhead_position": 0,
+ "export_settings": null
+}

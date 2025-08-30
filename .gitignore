@@ -1,0 +1,23 @@
+# Python venv
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build/Output
+output/
+voices/
+*.log
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Virtual environment metadata
+*.egg-info/
+.eggs/
+dist/
+build/

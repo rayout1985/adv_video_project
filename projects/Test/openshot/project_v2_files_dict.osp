@@ -1,0 +1,83 @@
+{
+  "openshot": "OpenShot Video Editor",
+  "version": "3.0.0",
+  "title": "scripts",
+  "profile": {
+    "width": 1920,
+    "height": 1080,
+    "fps_num": 30,
+    "fps_den": 1,
+    "name": "1920x1080 30fps"
+  },
+  "files": {
+    "../assets/bg/bg.png": {
+      "id": "../assets/bg/bg.png",
+      "type": "ImageReader",
+      "path": "../assets/bg/bg.png"
+    },
+    "../assets/chars/char_left.png": {
+      "id": "../assets/chars/char_left.png",
+      "type": "ImageReader",
+      "path": "../assets/chars/char_left.png"
+    },
+    "../assets/chars/char_right.png": {
+      "id": "../assets/chars/char_right.png",
+      "type": "ImageReader",
+      "path": "../assets/chars/char_right.png"
+    }
+  },
+  "clips": [
+    {
+      "id": "bg_1",
+      "file": "../assets/bg/bg.png",
+      "position": 0.0,
+      "start": 0.0,
+      "end": 5.0,
+      "layer": 1,
+      "location_x": 960.0,
+      "location_y": 540.0,
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "alpha": 1.0
+    },
+    {
+      "id": "ch_2",
+      "file": "../assets/chars/char_left.png",
+      "position": 5.0,
+      "start": 0.0,
+      "end": 5.0,
+      "layer": 3,
+      "location_x": 480.0,
+      "location_y": 540.0,
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "alpha": 1.0
+    },
+    {
+      "id": "bg_3",
+      "file": "../assets/bg/bg.png",
+      "position": 10.0,
+      "start": 0.0,
+      "end": 5.0,
+      "layer": 1,
+      "location_x": 960.0,
+      "location_y": 540.0,
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "alpha": 1.0
+    },
+    {
+      "id": "ch_4",
+      "file": "../assets/chars/char_right.png",
+      "position": 15.0,
+      "start": 0.0,
+      "end": 5.0,
+      "layer": 2,
+      "location_x": 1440.0,
+      "location_y": 540.0,
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "alpha": 1.0
+    }
+  ]
+}

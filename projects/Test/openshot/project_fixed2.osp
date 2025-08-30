@@ -1,0 +1,170 @@
+{
+  "id": "361E320A7F",
+  "fps": {
+    "num": 30,
+    "den": 1
+  },
+  "display_ratio": {
+    "num": 16,
+    "den": 9
+  },
+  "pixel_ratio": {
+    "num": 1,
+    "den": 1
+  },
+  "width": 1920,
+  "height": 1080,
+  "channels": 2,
+  "channel_layout": 3,
+  "sample_rate": 48000,
+  "settings": {},
+  "effects": [],
+  "markers": [],
+  "progress": [],
+  "duration": 20.0,
+  "scale": 15.0,
+  "profile": "HD 1080p 30 fps",
+  "export_settings": null,
+  "layers": [
+    {
+      "id": "L1",
+      "label": "",
+      "lock": false,
+      "number": 1000000,
+      "y": 0
+    },
+    {
+      "id": "L2",
+      "label": "",
+      "lock": false,
+      "number": 2000000,
+      "y": 0
+    },
+    {
+      "id": "L3",
+      "label": "",
+      "lock": false,
+      "number": 3000000,
+      "y": 0
+    },
+    {
+      "id": "L4",
+      "label": "",
+      "lock": false,
+      "number": 4000000,
+      "y": 0
+    },
+    {
+      "id": "L5",
+      "label": "",
+      "lock": false,
+      "number": 5000000,
+      "y": 0
+    }
+  ],
+  "history": {
+    "undo": [],
+    "redo": []
+  },
+  "version": {
+    "openshot-qt": "3.3.0",
+    "libopenshot": "0.4.0"
+  },
+  "files": [
+    {
+      "id": "../assets/bg/bg.png",
+      "path": "../assets/bg/bg.png",
+      "media_type": "image",
+      "has_video": true,
+      "has_audio": false,
+      "type": "QtImageReader"
+    },
+    {
+      "id": "../assets/chars/char_left.png",
+      "path": "../assets/chars/char_left.png",
+      "media_type": "image",
+      "has_video": true,
+      "has_audio": false,
+      "type": "QtImageReader"
+    },
+    {
+      "id": "../assets/chars/char_right.png",
+      "path": "../assets/chars/char_right.png",
+      "media_type": "image",
+      "has_video": true,
+      "has_audio": false,
+      "type": "QtImageReader"
+    }
+  ],
+  "clips": [
+    {
+      "id": "clip_1",
+      "file": {
+        "id": "../assets/bg/bg.png",
+        "path": "../assets/bg/bg.png",
+        "type": "QtImageReader"
+      },
+      "position": 0.0,
+      "start": 0.0,
+      "end": 5.0,
+      "layer": 1,
+      "alpha": 1.0,
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "location_x": 960.0,
+      "location_y": 540.0
+    },
+    {
+      "id": "clip_2",
+      "file": {
+        "id": "../assets/chars/char_left.png",
+        "path": "../assets/chars/char_left.png",
+        "type": "QtImageReader"
+      },
+      "position": 5.0,
+      "start": 0.0,
+      "end": 5.0,
+      "layer": 3,
+      "alpha": 1.0,
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "location_x": 480.0,
+      "location_y": 540.0
+    },
+    {
+      "id": "clip_3",
+      "file": {
+        "id": "../assets/bg/bg.png",
+        "path": "../assets/bg/bg.png",
+        "type": "QtImageReader"
+      },
+      "position": 10.0,
+      "start": 0.0,
+      "end": 5.0,
+      "layer": 1,
+      "alpha": 1.0,
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "location_x": 960.0,
+      "location_y": 540.0
+    },
+    {
+      "id": "clip_4",
+      "file": {
+        "id": "../assets/chars/char_right.png",
+        "path": "../assets/chars/char_right.png",
+        "type": "QtImageReader"
+      },
+      "position": 15.0,
+      "start": 0.0,
+      "end": 5.0,
+      "layer": 2,
+      "alpha": 1.0,
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "location_x": 1440.0,
+      "location_y": 540.0
+    }
+  ],
+  "title": "scripts"
+}
