@@ -1,52 +1,79 @@
-# 背景（5分通し）
-00:00 - 05:00 bg.png fadein fadeout
+# ===== 背景（常時表示：5分） =====
+00:00 - 05:00 bg.png
 
-# ==== Cycle 1 (00:03〜) ====
-00:03 - 00:13 char_zundamon.png left-in zoomin talk "やあ、ずんだもんだよ。準備はいい？"
-00:11 - 00:21 char_metan.png    right-in zoomin talk "もちろん！今日も張り切っていこう。"
-00:19 - 00:29 char_tsumugi.png   left-in  zoomout talk "つむぎです。まずは自己紹介から始めましょう。"
+# セクションA（0:05-1:05）— ゆるい導入
+00:05 - 00:13 char_left.png   left-in  talk "おはよう！今日は新しい動画の実験だよ。"             spk:"ずんだもん"
+00:06 - 00:20 char_right.png  right-in                                              # 無言で重ねてデュオ
 
-# ==== Cycle 2 (00:30〜) ====
-00:30 - 00:40 char_zundamon.png right-in jump talk "ずんだもちパワー、チャージ完了！"
-00:38 - 00:48 char_metan.png    left-in  zoomin talk "BGMもしっかり聞こえるね。映像もバッチリ。"
-00:46 - 00:56 char_tsumugi.png  right-in zoomout fadeout talk "視聴者のみなさん、次の話題へ行きますよ。"
+00:13 - 00:21 char_right.png  right-in talk "ワクワクしますね。レイアウトも試してみましょう。" spk:"四国めたん"
+00:14 - 00:28 char_left.png   left                                                  # 無言で重ね
 
-# ==== Cycle 3 (01:00〜) ====
-01:00 - 01:10 char_zundamon.png left-in  zoomin talk "ここでちょっと寄ってみるよ。"
-01:08 - 01:18 char_metan.png    right-in zoomout talk "私は少し引いて全体を見せます。"
-01:16 - 01:26 char_tsumugi.png  left-in  jump talk "効果のテストも順調みたい。"
+00:21 - 00:29 char_left.png   left     talk "まずは基本のカットから。テンポ良くいこう！"       spk:"春日部つむぎ"
+00:22 - 00:36 char_right.png  right                                                 # 無言で重ね
 
-# ==== Cycle 4 (01:30〜) ====
-01:30 - 01:40 char_zundamon.png right-in zoomout talk "次のシーン転換もスムーズに。"
-01:38 - 01:48 char_metan.png    left-in  zoomin talk "字幕プレートも自動で敷かれています。"
-01:46 - 01:56 char_tsumugi.png  right-in zoomin fadeout talk "文字だけPNGが最前面に乗る仕様ですね。"
+00:29 - 00:37 char_right.png  right    talk "字幕プレートも忘れずに。"                         spk:"雨晴はう"
+00:30 - 00:44 char_left.png   left                                                  # 無言で重ね
 
-# ==== Cycle 5 (02:00〜) ====
-02:00 - 02:10 char_zundamon.png left-in  zoomin talk "配置は二人だと左右寄せ。"
-02:08 - 02:18 char_metan.png    right-in zoomin talk "一人だと中央寄せ、ちょっと大きめ。"
-02:16 - 02:26 char_tsumugi.png  left-in  zoomout talk "ADVっぽい見た目に近づいてきました。"
+00:37 - 00:45 char_left.png   left     talk "よし、次は視覚効果を軽く試そう。"                 spk:"波音リツ"
+00:38 - 00:52 char_right.png  right                                                 # 無言で重ね
 
-# ==== Cycle 6 (02:30〜) ====
-02:30 - 02:40 char_zundamon.png right-in jump talk "ジャンプ演出、控えめに入れてみたよ。"
-02:38 - 02:48 char_metan.png    left-in  zoomout talk "ズームアウトで奥行きを作ります。"
-02:46 - 02:56 char_tsumugi.png  right-in zoomin fadeout talk "フェードアウトで退場、自然ですね。"
+# セクションB（1:05-2:10）— アクション混ぜ
+01:05 - 01:13 char_right.png  right-in zoomin  talk "ズームインで寄ってみるね。"               spk:"玄野武宏"
+01:06 - 01:22 char_left.png   left                                                  # 無言
 
-# ==== Cycle 7 (03:00〜) ====
-03:00 - 03:10 char_zundamon.png left-in  zoomin talk "音声はVOICEVOXで合成されます。"
-03:08 - 03:18 char_metan.png    right-in zoomin talk "ずんだもん、めたん、つむぎの順で回しています。"
-03:16 - 03:26 char_tsumugi.png  left-in  zoomout talk "テキストはSRTにも書き出し済み。"
+01:13 - 01:21 char_left.png   left-in jump    talk "ジャンプで軽い動きをつけます！"             spk:"白上虎太郎"
+01:14 - 01:30 char_right.png  right                                                 # 無言
 
-# ==== Cycle 8 (03:30〜) ====
-03:30 - 03:40 char_zundamon.png right-in zoomout talk "ここから中盤のまとめに入ります。"
-03:38 - 03:48 char_metan.png    left-in  zoomin talk "OpenShotのプロジェクトも自動生成。"
-03:46 - 03:56 char_tsumugi.png  right-in jump talk "プレート画像は幅最大で下部に配置されます。"
+01:21 - 01:29 char_right.png  right-in fadein talk "フェードインで自然に登場。"                 spk:"青山龍星"
+01:22 - 01:38 char_left.png   left                                                  # 無言
 
-# ==== Cycle 9 (04:00〜) ====
-04:00 - 04:10 char_zundamon.png left-in  zoomin talk "二人の時は重なり時間で自動判定。"
-04:08 - 04:18 char_metan.png    right-in zoomout talk "ソロとデュオの切替が要らないのが楽。"
-04:16 - 04:26 char_tsumugi.png  left-in  zoomin fadeout talk "細かい位置は定数でチューニングできます。"
+01:29 - 01:37 char_left.png   left     zoomout talk "ズームアウトで全体感を。"                   spk:"冥鳴ひまり"
+01:30 - 01:46 char_right.png  right                                                 # 無言
 
-# ==== Cycle 10 (04:30〜) ====
-04:30 - 04:40 char_zundamon.png right-in zoomin talk "そろそろエンディングだね。"
-04:38 - 04:48 char_metan.png    left-in  zoomin talk "最後は軽くズームで見せ場を。"
-04:46 - 04:56 char_tsumugi.png  right-in zoomout fadeout talk "ご視聴ありがとうございました！"
+01:37 - 01:45 char_right.png  right    fadeout talk "フェードアウトの確認もOK。"                 spk:"九州そら"
+01:38 - 01:54 char_left.png   left                                                  # 無言
+
+# セクションC（2:10-3:20）— 追加メンバー・掛け合い
+02:10 - 02:18 char_left.png   left-in  talk "素材の管理はプロジェクト内で統一しよう。"           spk:"もち子さん"
+02:11 - 02:27 char_right.png  right                                                 # 無言
+
+02:18 - 02:26 char_right.png  right-in talk "命名規則が揃うと後工程が楽ですからね。"             spk:"さとうささら"
+02:19 - 02:35 char_left.png   left                                                  # 無言
+
+02:26 - 02:34 char_left.png   left     talk "台本から音声、OpenShotまで自動化！"                 spk:"小夜"
+02:27 - 02:43 char_right.png  right                                                 # 無言
+
+02:34 - 02:42 char_right.png  right    talk "将来はアクションも増やせます。"                     spk:"四国めたん"
+02:35 - 02:51 char_left.png   left                                                  # 無言
+
+02:42 - 02:50 char_left.png   left     talk "プレート幅は最大で見やすく。"                       spk:"春日部つむぎ"
+02:43 - 02:59 char_right.png  right                                                 # 無言
+
+# セクションD（3:20-4:20）— ミドルテンポ
+03:20 - 03:28 char_right.png  right-in talk "OpenShotで視覚を決めて…"                          spk:"ずんだもん"
+03:21 - 03:37 char_left.png   left                                                  # 無言
+
+03:28 - 03:36 char_left.png   left-in  talk "Filmoraで最終の仕上げを。"                          spk:"波音リツ"
+03:29 - 03:45 char_right.png  right                                                 # 無言
+
+03:36 - 03:44 char_right.png  right    talk "BGMやSEは最後にバランス調整。"                      spk:"玄野武宏"
+03:37 - 03:53 char_left.png   left                                                  # 無言
+
+03:44 - 03:52 char_left.png   left     talk "音量ノーマライズも検討しよう。"                      spk:"青山龍星"
+03:45 - 04:01 char_right.png  right                                                 # 無言
+
+03:52 - 04:00 char_right.png  right    talk "尺はだいたい5分でOK？"                              spk:"冥鳴ひまり"
+03:53 - 04:09 char_left.png   left                                                  # 無言
+
+# セクションE（4:20-5:00）— まとめ
+04:20 - 04:28 char_left.png   left     talk "はい、今日の流れは…"                                 spk:"九州そら"
+04:21 - 04:37 char_right.png  right                                                 # 無言
+
+04:28 - 04:36 char_right.png  right    talk "台本 → 音声生成 → タイムライン → MP4 出力！"        spk:"もち子さん"
+04:29 - 04:45 char_left.png   left                                                  # 無言
+
+04:36 - 04:44 char_left.png   left     talk "将来はアクション拡張でさらに表現を増やす。"            spk:"さとうささら"
+04:37 - 04:53 char_right.png  right                                                 # 無言
+
+04:44 - 04:52 char_right.png  right    talk "では、エクスポートして確認しましょう！"               spk:"小夜"
+04:45 - 05:00 char_left.png   left                                                  # 無言

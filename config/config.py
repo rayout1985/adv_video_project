@@ -49,3 +49,27 @@ SPEAKERS = {
     "さとうささら": 21,
     "小夜": 22,
 }
+
+# 逆引き（ID → 日本語話者名）
+SPEAKER_ID_TO_NAME = {v: k for k, v in SPEAKERS.items()}
+
+def resolve_speaker_id(name_or_id: str | int | None, default_name: str = "ずんだもん") -> int:
+    """
+    name_or_id が:
+      - int / 数値文字列 → そのままID
+      - 日本語名（SPEAKERSのキー） → 対応ID
+      - None / 不明 → default_name で解決
+    """
+    if name_or_id is None:
+        return SPEAKERS.get(default_name, 3)
+    if isinstance(name_or_id, int):
+        return name_or_id
+    s = str(name_or_id).strip()
+    # 数値文字列？
+    if s.isdigit():
+        return int(s)
+    # 日本語名マッチ
+    if s in SPEAKERS:
+        return SPEAKERS[s]
+    # だめならデフォルト
+    return SPEAKERS.get(default_name, 3)

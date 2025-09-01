@@ -3,634 +3,244 @@
     "bg": "assets/bg/bg.png",
     "lines": [
       {
-        "character": "assets/chars/char_zundamon.png",
+        "character": "assets/chars/char_left.png",
         "position": "left",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomin",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "やあ、ずんだもんだよ。準備はいい？"
+        "text": "おはよう！今日は新しい動画の実験だよ。",
+        "speaker": "ずんだもん"
       },
       {
-        "character": "assets/chars/char_metan.png",
+        "character": "assets/chars/char_right.png",
+        "position": "right"
+      },
+      {
+        "character": "assets/chars/char_right.png",
         "position": "right",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomin",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "もちろん！今日も張り切っていこう。"
+        "text": "ワクワクしますね。レイアウトも試してみましょう。",
+        "speaker": "四国めたん"
       },
       {
-        "character": "assets/chars/char_tsumugi.png",
+        "character": "assets/chars/char_left.png",
+        "position": "left"
+      },
+      {
+        "character": "assets/chars/char_left.png",
         "position": "left",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomout",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "つむぎです。まずは自己紹介から始めましょう。"
+        "text": "まずは基本のカットから。テンポ良くいこう！",
+        "speaker": "春日部つむぎ"
       },
       {
-        "character": "assets/chars/char_zundamon.png",
+        "character": "assets/chars/char_right.png",
+        "position": "right"
+      },
+      {
+        "character": "assets/chars/char_right.png",
         "position": "right",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "jump",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "ずんだもちパワー、チャージ完了！"
+        "text": "字幕プレートも忘れずに。",
+        "speaker": "雨晴はう"
       },
       {
-        "character": "assets/chars/char_metan.png",
+        "character": "assets/chars/char_left.png",
+        "position": "left"
+      },
+      {
+        "character": "assets/chars/char_left.png",
         "position": "left",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomin",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "BGMもしっかり聞こえるね。映像もバッチリ。"
+        "text": "よし、次は視覚効果を軽く試そう。",
+        "speaker": "波音リツ"
       },
       {
-        "character": "assets/chars/char_tsumugi.png",
+        "character": "assets/chars/char_right.png",
+        "position": "right"
+      },
+      {
+        "character": "assets/chars/char_right.png",
         "position": "right",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomout",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "fadeout",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "視聴者のみなさん、次の話題へ行きますよ。"
+        "text": "ズームインで寄ってみるね。",
+        "speaker": "玄野武宏"
       },
       {
-        "character": "assets/chars/char_zundamon.png",
+        "character": "assets/chars/char_left.png",
+        "position": "left"
+      },
+      {
+        "character": "assets/chars/char_left.png",
         "position": "left",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomin",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "ここでちょっと寄ってみるよ。"
+        "text": "ジャンプで軽い動きをつけます！",
+        "speaker": "白上虎太郎"
       },
       {
-        "character": "assets/chars/char_metan.png",
+        "character": "assets/chars/char_right.png",
+        "position": "right"
+      },
+      {
+        "character": "assets/chars/char_right.png",
         "position": "right",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomout",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "私は少し引いて全体を見せます。"
+        "text": "フェードインで自然に登場。",
+        "speaker": "青山龍星"
       },
       {
-        "character": "assets/chars/char_tsumugi.png",
+        "character": "assets/chars/char_left.png",
+        "position": "left"
+      },
+      {
+        "character": "assets/chars/char_left.png",
         "position": "left",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "jump",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "効果のテストも順調みたい。"
+        "text": "ズームアウトで全体感を。",
+        "speaker": "冥鳴ひまり"
       },
       {
-        "character": "assets/chars/char_zundamon.png",
+        "character": "assets/chars/char_right.png",
+        "position": "right"
+      },
+      {
+        "character": "assets/chars/char_right.png",
         "position": "right",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomout",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "次のシーン転換もスムーズに。"
+        "text": "フェードアウトの確認もOK。",
+        "speaker": "九州そら"
       },
       {
-        "character": "assets/chars/char_metan.png",
+        "character": "assets/chars/char_left.png",
+        "position": "left"
+      },
+      {
+        "character": "assets/chars/char_left.png",
         "position": "left",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomin",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "字幕プレートも自動で敷かれています。"
+        "text": "素材の管理はプロジェクト内で統一しよう。",
+        "speaker": "もち子さん"
       },
       {
-        "character": "assets/chars/char_tsumugi.png",
+        "character": "assets/chars/char_right.png",
+        "position": "right"
+      },
+      {
+        "character": "assets/chars/char_right.png",
         "position": "right",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomin",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "fadeout",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "文字だけPNGが最前面に乗る仕様ですね。"
+        "text": "命名規則が揃うと後工程が楽ですからね。",
+        "speaker": "さとうささら"
       },
       {
-        "character": "assets/chars/char_zundamon.png",
+        "character": "assets/chars/char_left.png",
+        "position": "left"
+      },
+      {
+        "character": "assets/chars/char_left.png",
         "position": "left",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomin",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "配置は二人だと左右寄せ。"
+        "text": "台本から音声、OpenShotまで自動化！",
+        "speaker": "小夜"
       },
       {
-        "character": "assets/chars/char_metan.png",
+        "character": "assets/chars/char_right.png",
+        "position": "right"
+      },
+      {
+        "character": "assets/chars/char_right.png",
         "position": "right",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomin",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "一人だと中央寄せ、ちょっと大きめ。"
+        "text": "将来はアクションも増やせます。",
+        "speaker": "四国めたん"
       },
       {
-        "character": "assets/chars/char_tsumugi.png",
+        "character": "assets/chars/char_left.png",
+        "position": "left"
+      },
+      {
+        "character": "assets/chars/char_left.png",
         "position": "left",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomout",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "ADVっぽい見た目に近づいてきました。"
+        "text": "プレート幅は最大で見やすく。",
+        "speaker": "春日部つむぎ"
       },
       {
-        "character": "assets/chars/char_zundamon.png",
+        "character": "assets/chars/char_right.png",
+        "position": "right"
+      },
+      {
+        "character": "assets/chars/char_right.png",
         "position": "right",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "jump",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "ジャンプ演出、控えめに入れてみたよ。"
+        "text": "OpenShotで視覚を決めて…",
+        "speaker": "ずんだもん"
       },
       {
-        "character": "assets/chars/char_metan.png",
+        "character": "assets/chars/char_left.png",
+        "position": "left"
+      },
+      {
+        "character": "assets/chars/char_left.png",
         "position": "left",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomout",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "ズームアウトで奥行きを作ります。"
+        "text": "Filmoraで最終の仕上げを。",
+        "speaker": "波音リツ"
       },
       {
-        "character": "assets/chars/char_tsumugi.png",
+        "character": "assets/chars/char_right.png",
+        "position": "right"
+      },
+      {
+        "character": "assets/chars/char_right.png",
         "position": "right",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomin",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "fadeout",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "フェードアウトで退場、自然ですね。"
+        "text": "BGMやSEは最後にバランス調整。",
+        "speaker": "玄野武宏"
       },
       {
-        "character": "assets/chars/char_zundamon.png",
+        "character": "assets/chars/char_left.png",
+        "position": "left"
+      },
+      {
+        "character": "assets/chars/char_left.png",
         "position": "left",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomin",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "音声はVOICEVOXで合成されます。"
+        "text": "音量ノーマライズも検討しよう。",
+        "speaker": "青山龍星"
       },
       {
-        "character": "assets/chars/char_metan.png",
+        "character": "assets/chars/char_right.png",
+        "position": "right"
+      },
+      {
+        "character": "assets/chars/char_right.png",
         "position": "right",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomin",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "ずんだもん、めたん、つむぎの順で回しています。"
+        "text": "尺はだいたい5分でOK？",
+        "speaker": "冥鳴ひまり"
       },
       {
-        "character": "assets/chars/char_tsumugi.png",
+        "character": "assets/chars/char_left.png",
+        "position": "left"
+      },
+      {
+        "character": "assets/chars/char_left.png",
         "position": "left",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomout",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "テキストはSRTにも書き出し済み。"
+        "text": "はい、今日の流れは…",
+        "speaker": "九州そら"
       },
       {
-        "character": "assets/chars/char_zundamon.png",
+        "character": "assets/chars/char_right.png",
+        "position": "right"
+      },
+      {
+        "character": "assets/chars/char_right.png",
         "position": "right",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomout",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "ここから中盤のまとめに入ります。"
+        "text": "台本 → 音声生成 → タイムライン → MP4 出力！",
+        "speaker": "もち子さん"
       },
       {
-        "character": "assets/chars/char_metan.png",
+        "character": "assets/chars/char_left.png",
+        "position": "left"
+      },
+      {
+        "character": "assets/chars/char_left.png",
         "position": "left",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomin",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "OpenShotのプロジェクトも自動生成。"
+        "text": "将来はアクション拡張でさらに表現を増やす。",
+        "speaker": "さとうささら"
       },
       {
-        "character": "assets/chars/char_tsumugi.png",
+        "character": "assets/chars/char_right.png",
+        "position": "right"
+      },
+      {
+        "character": "assets/chars/char_right.png",
         "position": "right",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "jump",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "プレート画像は幅最大で下部に配置されます。"
+        "text": "では、エクスポートして確認しましょう！",
+        "speaker": "小夜"
       },
       {
-        "character": "assets/chars/char_zundamon.png",
-        "position": "left",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomin",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "二人の時は重なり時間で自動判定。"
-      },
-      {
-        "character": "assets/chars/char_metan.png",
-        "position": "right",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomout",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "ソロとデュオの切替が要らないのが楽。"
-      },
-      {
-        "character": "assets/chars/char_tsumugi.png",
-        "position": "left",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomin",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "fadeout",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "細かい位置は定数でチューニングできます。"
-      },
-      {
-        "character": "assets/chars/char_zundamon.png",
-        "position": "right",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomin",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "そろそろエンディングだね。"
-      },
-      {
-        "character": "assets/chars/char_metan.png",
-        "position": "left",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomin",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "最後は軽くズームで見せ場を。"
-      },
-      {
-        "character": "assets/chars/char_tsumugi.png",
-        "position": "right",
-        "voice": 3,
-        "action": [
-          {
-            "type": "slidein",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "zoomout",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          },
-          {
-            "type": "fadeout",
-            "start": 0.0,
-            "duration": 0.6,
-            "strength": 1.0
-          }
-        ],
-        "text": "ご視聴ありがとうございました！"
+        "character": "assets/chars/char_left.png",
+        "position": "left"
       }
     ]
   }
